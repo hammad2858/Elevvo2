@@ -29,6 +29,7 @@ This project was developed during my internship to showcase the interface of an 
 
 ## 📸 Screenshots
 
-> https://ibb.co/pj5FBYHk
+> <img width="1344" height="591" alt="image" src="https://github.com/user-attachments/assets/5906c490-d9fc-486b-a8af-1048d0f397e5" />
+
 
 
