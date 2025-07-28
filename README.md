@@ -1,4 +1,4 @@
-# AI SaaS Frontend – Internship Project
+# TechNova - AI SaaS Frontend Project
 
 🚀 A clean, responsive, and modern frontend for an AI-powered SaaS platform.  
 This project was developed during my internship to showcase the interface of an AI tool with a professional user experience.
@@ -29,6 +29,6 @@ This project was developed during my internship to showcase the interface of an 
 
 ## 📸 Screenshots
 
-> https://www.airforshare.com/files/wMGBcR.png 
+> https://ibb.co/pj5FBYHk
 
 
